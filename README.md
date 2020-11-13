@@ -1,3 +1,19 @@
+How to use this Application
+
+step 1:install all dependencies
+## $npm install
+
+step 2:start server
+## $npm start
+
+open new terminal and start json-server
+
+## $npm run json-server
+
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
