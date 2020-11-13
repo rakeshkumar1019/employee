@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "name": "Hande ",
+      "username": "HandeErc",
+      "email": "hande@gmail.com",
+      "phone": "8466953034",
+      "website": "website.com",
+      "id": 11
+    },
+    {
+      "username": "Brijesh Kumar",
+      "email": "brijesh@gmail.com",
+      "phone": "6281077256",
+      "id": 13
+    },
+    {
+      "username": "Iron Man",
+      "email": "iron_man@gmail.com",
+      "phone": "9908527237",
+      "id": 14
+    },
+    {
+      "username": "Thor",
+      "email": "thor00984@gmail.com",
+      "phone": "8495302489",
+      "id": 15
+    },
+    {
+      "username": "Rakesh Kumar Singh",
+      "email": "srakeshkumar1019@gmail.com",
+      "phone": "9182700412",
+      "id": 16
+    }
+  ]
+}
